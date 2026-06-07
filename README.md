@@ -4,16 +4,16 @@ Developed an interactive Mobile Sales Analysis Dashboard in Power BI to monitor 
 **Key Features**
 Interactive dashboard with slicers for Mobile Model, Brand, Payment Method, Year, and Month.
 KPI cards displaying:
-Total Sales
-Total Quantity Sold
-Number of Transactions
-Average Price
-City-wise sales analysis using map visualization.
-Monthly quantity trend analysis.
-Payment method distribution analysis.
-Brand-wise and model-wise sales comparison.
-Day-wise sales performance analysis.
-Month-to-Date (MTD) sales tracking.
+Total Sales,
+Total Quantity Sold,
+Number of Transactions,
+Average Price,
+City-wise sales analysis using map visualization,
+Monthly quantity trend analysis,
+Payment method distribution analysis,
+Brand-wise and model-wise sales comparison,
+Day-wise sales performance analysis,
+Month-to-Date (MTD) sales tracking,
 Same Period Last Year (SPLY) analysis with Year, Quarter, and Month comparisons.
 
 **Tools & Technologies**
