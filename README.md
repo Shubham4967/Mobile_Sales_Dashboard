@@ -32,9 +32,9 @@ Monitored Month-to-Date sales trends for better business tracking.
 Evaluated customer payment preferences and transaction patterns.
 
 **Dashboard Pages**
-1. Dashboard Overview
+1. Dashboard
 2. MTD Report
-3. Same Period Last Year Analysis# Mobile_Sales_Dashboard
+3. Same Period Last Year Analysis
 
 **Screenshot**
-Dashboard - https://github.com/Shubham4967/Mobile_Sales_Dashboard/blob/main/Dashboard.png
+Dashboard: ![Dashboard Preview](https://github.com/Shubham4967/Mobile_Sales_Dashboard/blob/main/Dashboard.png)
