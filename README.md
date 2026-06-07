@@ -18,10 +18,10 @@ Same Period Last Year (SPLY) analysis with Year, Quarter, and Month comparisons.
 
 **Tools & Technologies**
 Power BI |
-Power Query
-DAX
-Data Modeling
-Data Visualization
+Power Query |
+DAX |
+Data Modeling |
+Data Visualization |
 Excel/CSV Dataset
 
 **Key Insights**
@@ -32,9 +32,9 @@ Monitored Month-to-Date sales trends for better business tracking.
 Evaluated customer payment preferences and transaction patterns.
 
 **Dashboard Pages**
-Dashboard Overview
-MTD Report
-Same Period Last Year Analysis# Mobile_Sales_Dashboard
+1. Dashboard Overview
+2. MTD Report
+3. Same Period Last Year Analysis# Mobile_Sales_Dashboard
 
 **Screenshot**
 Dashboard - https://github.com/Shubham4967/Mobile_Sales_Dashboard/blob/main/Dashboard.png
