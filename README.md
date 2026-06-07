@@ -39,4 +39,4 @@ Evaluated customer payment preferences and transaction patterns.
 **Screenshot**
 Dashboard: ![Dashboard Preview](https://github.com/Shubham4967/Mobile_Sales_Dashboard/blob/main/Dashboard.png)
 MTD Report: ![Dashboard Preview](https://github.com/Shubham4967/Mobile_Sales_Dashboard/blob/main/MTD%20Report.png)
-Same Period Last Year: ![Dashboard Preview](https://github.com/Shubham4967/Mobile_Sales_Dashboard/blob/main/Dashboard.png)
+Same Period Last Year: ![Dashboard Preview](https://github.com/Shubham4967/Mobile_Sales_Dashboard/blob/main/Same%20Period%20Last%20Year.png)
