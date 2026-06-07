@@ -7,17 +7,17 @@ KPI cards displaying:
 Total Sales,
 Total Quantity Sold,
 Number of Transactions,
-Average Price,
-City-wise sales analysis using map visualization,
-Monthly quantity trend analysis,
-Payment method distribution analysis,
-Brand-wise and model-wise sales comparison,
-Day-wise sales performance analysis,
-Month-to-Date (MTD) sales tracking,
+Average Price.
+City-wise sales analysis using map visualization.
+Monthly quantity trend analysis.
+Payment method distribution analysis.
+Brand-wise and model-wise sales comparison.
+Day-wise sales performance analysis.
+Month-to-Date (MTD) sales tracking.
 Same Period Last Year (SPLY) analysis with Year, Quarter, and Month comparisons.
 
 **Tools & Technologies**
-Power BI
+Power BI |
 Power Query
 DAX
 Data Modeling
